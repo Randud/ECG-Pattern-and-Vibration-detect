@@ -6,7 +6,7 @@ Servo servo;
 
 #define WIFISSID "3oLabs"                                // Put your WifiSSID here
 #define PASSWORD "pamu.1998"                                 // Put your wifi password here
-#define TOKEN "BBFF-9N6cXdc9BRYegGA7TzooGPmlDYxxYr"         // Put your Ubidots' TOKEN
+#define TOKEN ""         // Put your Ubidots' TOKEN
 #define MQTT_CLIENT_NAME "myecgsensor"                       // MQTT client Name, please enter your own 8-12 alphanumeric character ASCII string; 
                                                             //it should be a random and unique ascii string and different from all other devices
  
